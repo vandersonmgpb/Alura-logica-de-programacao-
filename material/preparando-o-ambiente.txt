@@ -1,0 +1,26 @@
+O principal objetivo desta atividade é preparar o ambiente de desenvolvimento que 
+vamos utilizar durante este curso. Nela, mostramos o que é necessário instalar, 
+disponibilizamos alguns arquivos de código ou material necessários para garantir a 
+melhor experiência de aprendizado!
+
+Material necessário
+Para acompanhar e acessar o projeto base que será usado no curso, clique neste link e 
+faça o download do projeto base do curso. O arquivo é um zip e você precisa descompactá-lo 
+em algum diretório do seu computador. Saber trabalhar com um código que foi desenvolvido por 
+outras pessoas é de extrema importância para você. Neste projeto, temos como desafio remover 
+os alertas e prompts e interagir com elementos na tela através do JavaScript.
+
+Mas… onde vamos escrever nossos códigos?
+Quando pensamos em desenvolver códigos e criar programas de software, temos ferramentas que 
+nos auxiliam nesta criação e edição. Uma delas é o Visual Studio Code, que é um editor de código 
+gratuito e de código aberto desenvolvido pela Microsoft. Ele é usado por desenvolvedores (as) de 
+todo o mundo para escrever e editar código para uma variedade de plataformas e linguagens.
+
+Faça o download do Visual Studio Code de acordo com seu sistema operacional (Windows, Linux ou 
+Mac OS) neste link.
+
+Obs: Neste curso utilizaremos a extensão Live Server no Visual Studio Code, que foi mostrada 
+nesse vídeo do curso anterior: 
+https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/136478
+
+Sabendo disso, vamos iniciar nossos estudos em lógica de programação?
